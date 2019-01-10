@@ -1,0 +1,25 @@
+.searchbox {
+  background: #204b81;
+  clear: both;
+  padding: 20px;
+  display: block;
+}
+
+.searchbox input {
+  border-radius: 10px 0 0 10px;
+  border: none;
+  padding: 10px;
+}
+
+.searchbox button {
+  background: #004e3a;
+  border: none;
+  color: #fff;
+  border-radius: 0 10px 10px 0;
+  padding: 10px 30px;
+}
+
+.searchbox--large input,
+.searchbox--large button {
+  font-size: 40px;
+}

@@ -1,0 +1,21 @@
+.details-table thead {
+  background: #000;
+  color: #fff;
+}
+
+.details-table thead th {
+  padding: 15px 20px;
+}
+
+.details-table .sub-heading {
+  background: #d9d9d9;
+}
+
+.details-table .sub-heading td {
+  padding: 5px;
+  color: #888;
+}
+
+.details-table .center {
+  text-align: center;
+}

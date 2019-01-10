@@ -1,0 +1,17 @@
+.home__splash {
+  height: 544px;
+  background-image:url(/images/hp-splash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.home__splash h1 {
+  color: #fff;
+  font-size: 4rem;
+}
